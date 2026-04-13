@@ -16,7 +16,7 @@
 * run two terminal commands from batocera (F1->applications->xterm) or via SSH to install it
 
     ```
-    curl -o /tmp/install.sh https://raw.githubusercontent.com/nicolai-6/batocera-bd-prochot/refs/heads/main/install.sh
+    curl -o /tmp/install.sh https://raw.githubusercontent.com/guilhermebera/batocera-bd-prochot/refs/heads/main/install.sh
     bash /tmp/install.sh
     ```
 
